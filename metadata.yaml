@@ -1,11 +1,16 @@
 _repo: Brazil-and-Her-People-of-To-day_59764
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59764-h/images/cover.jpg
 creator:
   author:
     agent_name: Winter, Nevin O. (Nevin Otto)
     gutenberg_agent_id: '50421'
     url: http://www.gutenberg.org/2009/agents/50421
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59764#Brazil-and-Her-People-of-To-day
 gutenberg_issued: '2019-06-16'
 gutenberg_type: Text
 identifiers:
